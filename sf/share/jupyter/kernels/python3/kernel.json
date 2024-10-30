@@ -1,6 +1,7 @@
 {
  "argv": [
-  "python",
+  "/home/vaibhav/pr/sensor_fault/sf/bin/python",
+  "-Xfrozen_modules=off",
   "-m",
   "ipykernel_launcher",
   "-f",
